@@ -7,4 +7,4 @@ I'm working on ironing out the bugs and adding to the support.  OWA 2007 is also
 
 In version 0.6, forms based authentication was added, as well as a background notification service for unread emails.
 
-There is currently no support for importing or accepting unrecognized certificates.  I repeat THERE IS NO SUPPORT FOR SELF SIGNED CERTIFICATES.  I will continue to try to find a way to support them, but it's not likely to happen anytime soon.
+In version 0.7, support for self signed certs was added.
